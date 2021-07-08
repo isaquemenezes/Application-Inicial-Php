@@ -1,0 +1,13 @@
+{
+   "nome":"isaque",
+   "detalhes":"configuracao inicial para iniciar projects php",
+   "mores": [
+       {
+            "livro":"php Programando com Orientação a Objetos",
+            "Editora":"novatec",
+            "Autor":"Pablo dall´Oglio",
+            "Edicao": 4
+       }
+      
+   ] 
+}
